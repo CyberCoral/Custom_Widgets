@@ -244,7 +244,7 @@ def Button(strvar, master,button_kwargs = {"text":"Example","command":lambda _: 
     return entry_obj
 
 
-# Code example with most of this libraries' functions.
+# Code example with most of this library's functions.
 if __name__ == '__main__':
     root = tk.Tk()
     root.geometry("300x400")
